@@ -1,5 +1,4 @@
 import 'dart:convert';
-import 'package:untitled/data/model/product.dart';
 import 'Person.dart';
 
 class Student extends Person {
