@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+
 import 'UI/Screen/ExerciseHomepage.dart';
 
 void main() {
@@ -11,7 +12,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Lab 2 – Flutter UI Fundamentals',
+      title: 'Lab 4 – Flutter UI Fundamentals',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         useMaterial3: true,
